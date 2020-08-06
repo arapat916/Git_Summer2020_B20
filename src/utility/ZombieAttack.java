@@ -11,6 +11,7 @@ public class ZombieAttack {
         for(int i=0; i<inhabitants.length; i++) {
             inhabitants[i] = input.nextInt();
         }
+
         //TODO. Write you code below this line.
         int cnt = 0, sum = 0;
         int[] num1 = new int[inhabitants.length];
